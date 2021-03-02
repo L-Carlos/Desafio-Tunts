@@ -4,6 +4,10 @@
 >
 > Criar uma aplicação em uma linguagem de programação de sua preferência (caso esteja se candidatando a uma vaga de linguagem de programação específica, exemplo: programador node.js, utilizar a linguagem/tecnologia específica da vaga). A aplicação deve ser capaz de ler uma planilha do google sheets, buscar as informações necessárias, calcular e escrever o resultado na planilha.
 
+## Important
+
+If you are the recruiter please request the credentials file by emailing me at luiscarlosfirminopinheiro@gmail.com
+
 ## Dependencies
 
 [Python 3.9](https://www.python.org/downloads/release/python-392/)
