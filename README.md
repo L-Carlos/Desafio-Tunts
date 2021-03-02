@@ -6,7 +6,8 @@
 
 ## Important
 
-If you are the recruiter please request the credentials file by emailing me at luiscarlosfirminopinheiro@gmail.com
+If you are the recruiter from [TuntsCorp](http://www.tuntscorp.com/site/) please request the credentials file by emailing me at luiscarlosfirminopinheiro@gmail.com
+Without it you wont be able to run the application.
 
 ## Dependencies
 
